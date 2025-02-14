@@ -106,7 +106,7 @@ export function JobFilters({ open, canReset, onOpen, onClose, filters, categorie
       </Typography>
       <Autocomplete
         disableCloseOnSelect
-        options={(categories || []).map((category) => category.name)}
+        options={Array.isArray(categories) ? categories.map((category) => category.name) : []}
         getOptionLabel={(option) => option}
         value={currentFilters?.categories[0] || null}
         onChange={(event, newValue) => handleFilterCategories(newValue)}
