@@ -2,15 +2,6 @@
 
 A frontend project built with Vite for development and internal collaboration.
 
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Available Scripts](#available-scripts)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
@@ -38,4 +29,4 @@ Follow these steps to set up the project locally:
    ```bash
    npm run dev
 
-### YOU'RE READY TO GO!
+***Now you're ready to go! 🫶🏻***
