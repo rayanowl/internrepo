@@ -24,9 +24,11 @@ Follow these steps to set up the project locally:
    ```bash
    npm install
 
+**Note: If you download the extensions that VS Code notices automatically, the website will run without problem.**
+
 3. **Start the development server:**
 
    ```bash
    npm run dev
 
-***Now you're ready to go! 🫶🏻***
+***Now you're ready to go!*** 🫶🏻
